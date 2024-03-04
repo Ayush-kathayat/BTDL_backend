@@ -1,0 +1,4 @@
+.vscode/
+config.env
+*.log
+node_modules/
